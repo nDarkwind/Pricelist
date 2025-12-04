@@ -7,7 +7,8 @@ A GitHub Pages site for displaying RICS mod purchase lists.
 ### Quick Setup
 1. Fork this repository
 2. Enable GitHub Pages in your repository settings (Settings → Pages → Source: Deploy from branch → main branch)
-3. Upload your RICS JSON files to the `data/` folder from `%AppData%\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\CAP_ChatInteractive` :
+3. Upload your RICS JSON files to the `data/` folder 
+from `%AppData%\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\CAP_ChatInteractive` :
    - `StoreItems.json`
    - `Events.json` 
    - `Traits.json`
