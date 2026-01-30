@@ -93,7 +93,7 @@
       "Mod": "Core",
       "BasePrice": 2,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "Ambrosia": {
       "DefName": "Ambrosia",
@@ -283,7 +283,7 @@
       "Mod": "Core",
       "BasePrice": 2600,
       "Category": "Archotech",
-      "Enabled": true
+      "Enabled": false
     },
     "Urn": {
       "DefName": "Urn",
@@ -302,7 +302,7 @@
       "Mod": "Core",
       "BasePrice": 41,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SculptureSmall": {
       "DefName": "SculptureSmall",
@@ -321,7 +321,7 @@
       "Mod": "Core",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "SculptureLarge": {
       "DefName": "SculptureLarge",
@@ -340,7 +340,7 @@
       "Mod": "Core",
       "BasePrice": 310,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "SculptureGrand": {
       "DefName": "SculptureGrand",
@@ -359,7 +359,7 @@
       "Mod": "Core",
       "BasePrice": 1180,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "Bed": {
       "DefName": "Bed",
@@ -378,7 +378,7 @@
       "Mod": "Core",
       "BasePrice": 92,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "DoubleBed": {
       "DefName": "DoubleBed",
@@ -397,7 +397,7 @@
       "Mod": "Core",
       "BasePrice": 175,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "RoyalBed": {
       "DefName": "RoyalBed",
@@ -416,7 +416,7 @@
       "Mod": "Core",
       "BasePrice": 880,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "HospitalBed": {
       "DefName": "HospitalBed",
@@ -435,7 +435,7 @@
       "Mod": "Core",
       "BasePrice": 400,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Bedroll": {
       "DefName": "Bedroll",
@@ -454,7 +454,7 @@
       "Mod": "Core",
       "BasePrice": 82,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "BedrollDouble": {
       "DefName": "BedrollDouble",
@@ -473,7 +473,7 @@
       "Mod": "Core",
       "BasePrice": 173,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "AnimalSleepingBox": {
       "DefName": "AnimalSleepingBox",
@@ -492,7 +492,7 @@
       "Mod": "Core",
       "BasePrice": 50,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "AnimalBed": {
       "DefName": "AnimalBed",
@@ -511,7 +511,7 @@
       "Mod": "Core",
       "BasePrice": 81,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Stool": {
       "DefName": "Stool",
@@ -530,7 +530,7 @@
       "Mod": "Core",
       "BasePrice": 51,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "DiningChair": {
       "DefName": "DiningChair",
@@ -549,7 +549,7 @@
       "Mod": "Core",
       "BasePrice": 118,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Armchair": {
       "DefName": "Armchair",
@@ -568,7 +568,7 @@
       "Mod": "Core",
       "BasePrice": 270,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Couch": {
       "DefName": "Couch",
@@ -587,7 +587,7 @@
       "Mod": "Core",
       "BasePrice": 470,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "EndTable": {
       "DefName": "EndTable",
@@ -606,7 +606,7 @@
       "Mod": "Core",
       "BasePrice": 63,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Table1x2c": {
       "DefName": "Table1x2c",
@@ -625,7 +625,7 @@
       "Mod": "Core",
       "BasePrice": 58,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Table2x2c": {
       "DefName": "Table2x2c",
@@ -644,7 +644,7 @@
       "Mod": "Core",
       "BasePrice": 105,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Table2x4c": {
       "DefName": "Table2x4c",
@@ -663,7 +663,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Table3x3c": {
       "DefName": "Table3x3c",
@@ -682,7 +682,7 @@
       "Mod": "Core",
       "BasePrice": 210,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "PlantPot": {
       "DefName": "PlantPot",
@@ -701,7 +701,7 @@
       "Mod": "Core",
       "BasePrice": 40,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "StandingLamp": {
       "DefName": "StandingLamp",
@@ -720,7 +720,7 @@
       "Mod": "Core",
       "BasePrice": 39,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SunLamp": {
       "DefName": "SunLamp",
@@ -739,7 +739,7 @@
       "Mod": "Core",
       "BasePrice": 77,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "WallLamp": {
       "DefName": "WallLamp",
@@ -758,7 +758,7 @@
       "Mod": "Core",
       "BasePrice": 29,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "FloodLight": {
       "DefName": "FloodLight",
@@ -777,7 +777,7 @@
       "Mod": "Core",
       "BasePrice": 97,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Shelf": {
       "DefName": "Shelf",
@@ -796,7 +796,7 @@
       "Mod": "Core",
       "BasePrice": 121,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "ShelfSmall": {
       "DefName": "ShelfSmall",
@@ -815,7 +815,7 @@
       "Mod": "Core",
       "BasePrice": 60,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Bookcase": {
       "DefName": "Bookcase",
@@ -834,7 +834,7 @@
       "Mod": "Core",
       "BasePrice": 41,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "BookcaseSmall": {
       "DefName": "BookcaseSmall",
@@ -853,7 +853,7 @@
       "Mod": "Core",
       "BasePrice": 20,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Dresser": {
       "DefName": "Dresser",
@@ -872,7 +872,7 @@
       "Mod": "Core",
       "BasePrice": 107,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "HorseshoesPin": {
       "DefName": "HorseshoesPin",
@@ -891,7 +891,7 @@
       "Mod": "Core",
       "BasePrice": 20,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "HoopstoneRing": {
       "DefName": "HoopstoneRing",
@@ -910,7 +910,7 @@
       "Mod": "Core",
       "BasePrice": 40,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "GameOfUrBoard": {
       "DefName": "GameOfUrBoard",
@@ -929,7 +929,7 @@
       "Mod": "Core",
       "BasePrice": 91,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "ChessTable": {
       "DefName": "ChessTable",
@@ -948,7 +948,7 @@
       "Mod": "Core",
       "BasePrice": 168,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "PokerTable": {
       "DefName": "PokerTable",
@@ -967,7 +967,7 @@
       "Mod": "Core",
       "BasePrice": 240,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "BilliardsTable": {
       "DefName": "BilliardsTable",
@@ -986,7 +986,7 @@
       "Mod": "Core",
       "BasePrice": 360,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "TubeTelevision": {
       "DefName": "TubeTelevision",
@@ -1005,7 +1005,7 @@
       "Mod": "Core",
       "BasePrice": 315,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "FlatscreenTelevision": {
       "DefName": "FlatscreenTelevision",
@@ -1024,7 +1024,7 @@
       "Mod": "Core",
       "BasePrice": 920,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "MegascreenTelevision": {
       "DefName": "MegascreenTelevision",
@@ -1043,7 +1043,7 @@
       "Mod": "Core",
       "BasePrice": 1485,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "Telescope": {
       "DefName": "Telescope",
@@ -1062,7 +1062,7 @@
       "Mod": "Core",
       "BasePrice": 350,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "Gloomlight": {
       "DefName": "Gloomlight",
@@ -1081,7 +1081,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_ChargeBlasterHeavyTurret": {
       "DefName": "Gun_ChargeBlasterHeavyTurret",
@@ -1138,7 +1138,7 @@
       "Mod": "Core",
       "BasePrice": 47,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "OrbitalTradeBeacon": {
       "DefName": "OrbitalTradeBeacon",
@@ -1157,7 +1157,7 @@
       "Mod": "Core",
       "BasePrice": 110,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "FirefoamPopper": {
       "DefName": "FirefoamPopper",
@@ -1176,7 +1176,7 @@
       "Mod": "Core",
       "BasePrice": 179,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "MultiAnalyzer": {
       "DefName": "MultiAnalyzer",
@@ -1195,7 +1195,7 @@
       "Mod": "Core",
       "BasePrice": 1020,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VitalsMonitor": {
       "DefName": "VitalsMonitor",
@@ -1214,7 +1214,7 @@
       "Mod": "Core",
       "BasePrice": 215,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ToolCabinet": {
       "DefName": "ToolCabinet",
@@ -1233,7 +1233,7 @@
       "Mod": "Core",
       "BasePrice": 385,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "PenMarker": {
       "DefName": "PenMarker",
@@ -1252,7 +1252,7 @@
       "Mod": "Core",
       "BasePrice": 62,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GlowPod": {
       "DefName": "GlowPod",
@@ -1271,7 +1271,7 @@
       "Mod": "Core",
       "BasePrice": 50,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "Battery": {
       "DefName": "Battery",
@@ -1290,7 +1290,7 @@
       "Mod": "Core",
       "BasePrice": 199,
       "Category": "Power",
-      "Enabled": true
+      "Enabled": false
     },
     "TableSculpting": {
       "DefName": "TableSculpting",
@@ -1309,7 +1309,7 @@
       "Mod": "Core",
       "BasePrice": 255,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "TableButcher": {
       "DefName": "TableButcher",
@@ -1328,7 +1328,7 @@
       "Mod": "Core",
       "BasePrice": 181,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "HandTailoringBench": {
       "DefName": "HandTailoringBench",
@@ -1347,7 +1347,7 @@
       "Mod": "Core",
       "BasePrice": 157,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "ElectricTailoringBench": {
       "DefName": "ElectricTailoringBench",
@@ -1366,7 +1366,7 @@
       "Mod": "Core",
       "BasePrice": 320,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "FueledSmithy": {
       "DefName": "FueledSmithy",
@@ -1385,7 +1385,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "ElectricSmithy": {
       "DefName": "ElectricSmithy",
@@ -1404,7 +1404,7 @@
       "Mod": "Core",
       "BasePrice": 295,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "TableMachining": {
       "DefName": "TableMachining",
@@ -1423,7 +1423,7 @@
       "Mod": "Core",
       "BasePrice": 455,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "ElectricStove": {
       "DefName": "ElectricStove",
@@ -1442,7 +1442,7 @@
       "Mod": "Core",
       "BasePrice": 225,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "FueledStove": {
       "DefName": "FueledStove",
@@ -1461,7 +1461,7 @@
       "Mod": "Core",
       "BasePrice": 159,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "TableStonecutter": {
       "DefName": "TableStonecutter",
@@ -1480,7 +1480,7 @@
       "Mod": "Core",
       "BasePrice": 215,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "Brewery": {
       "DefName": "Brewery",
@@ -1499,7 +1499,7 @@
       "Mod": "Core",
       "BasePrice": 210,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "DrugLab": {
       "DefName": "DrugLab",
@@ -1518,7 +1518,7 @@
       "Mod": "Core",
       "BasePrice": 445,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "ElectricSmelter": {
       "DefName": "ElectricSmelter",
@@ -1537,7 +1537,7 @@
       "Mod": "Core",
       "BasePrice": 400,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "SimpleResearchBench": {
       "DefName": "SimpleResearchBench",
@@ -1556,7 +1556,7 @@
       "Mod": "Core",
       "BasePrice": 210,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "FermentingBarrel": {
       "DefName": "FermentingBarrel",
@@ -1575,7 +1575,7 @@
       "Mod": "Core",
       "BasePrice": 57,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "DeepDrill": {
       "DefName": "DeepDrill",
@@ -1594,7 +1594,7 @@
       "Mod": "Core",
       "BasePrice": 290,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapSpike": {
       "DefName": "TrapSpike",
@@ -1613,7 +1613,7 @@
       "Mod": "Core",
       "BasePrice": 101,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_HighExplosive": {
       "DefName": "TrapIED_HighExplosive",
@@ -1632,7 +1632,7 @@
       "Mod": "Core",
       "BasePrice": 115,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_Incendiary": {
       "DefName": "TrapIED_Incendiary",
@@ -1651,7 +1651,7 @@
       "Mod": "Core",
       "BasePrice": 115,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_EMP": {
       "DefName": "TrapIED_EMP",
@@ -1670,7 +1670,7 @@
       "Mod": "Core",
       "BasePrice": 115,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_Smoke": {
       "DefName": "TrapIED_Smoke",
@@ -1689,7 +1689,7 @@
       "Mod": "Core",
       "BasePrice": 115,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_Firefoam": {
       "DefName": "TrapIED_Firefoam",
@@ -1708,7 +1708,7 @@
       "Mod": "Core",
       "BasePrice": 115,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_AntigrainWarhead": {
       "DefName": "TrapIED_AntigrainWarhead",
@@ -1727,7 +1727,7 @@
       "Mod": "Core",
       "BasePrice": 1205,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "Turret_MiniTurret": {
       "DefName": "Turret_MiniTurret",
@@ -1746,7 +1746,7 @@
       "Mod": "Core",
       "BasePrice": 295,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "Turret_Mortar": {
       "DefName": "Turret_Mortar",
@@ -1765,7 +1765,7 @@
       "Mod": "Core",
       "BasePrice": 900,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "Turret_FoamTurret": {
       "DefName": "Turret_FoamTurret",
@@ -1784,7 +1784,7 @@
       "Mod": "Core",
       "BasePrice": 615,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "PsychicEmanator": {
       "DefName": "PsychicEmanator",
@@ -1803,7 +1803,7 @@
       "Mod": "Core",
       "BasePrice": 1300,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "VanometricPowerCell": {
       "DefName": "VanometricPowerCell",
@@ -1822,7 +1822,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "InfiniteChemreactor": {
       "DefName": "InfiniteChemreactor",
@@ -1841,7 +1841,7 @@
       "Mod": "Core",
       "BasePrice": 1500,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "Heater": {
       "DefName": "Heater",
@@ -1860,7 +1860,7 @@
       "Mod": "Core",
       "BasePrice": 130,
       "Category": "Temperature",
-      "Enabled": true
+      "Enabled": false
     },
     "PsychicAnimalPulser": {
       "DefName": "PsychicAnimalPulser",
@@ -1879,7 +1879,7 @@
       "Mod": "Core",
       "BasePrice": 700,
       "Category": "Artifacts",
-      "Enabled": true
+      "Enabled": false
     },
     "PsychicSoothePulser": {
       "DefName": "PsychicSoothePulser",
@@ -1898,7 +1898,7 @@
       "Mod": "Core",
       "BasePrice": 600,
       "Category": "Artifacts",
-      "Enabled": true
+      "Enabled": false
     },
     "AIPersonaCore": {
       "DefName": "AIPersonaCore",
@@ -1917,7 +1917,7 @@
       "Mod": "Core",
       "BasePrice": 4000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "MechSerumHealer": {
       "DefName": "MechSerumHealer",
@@ -1974,7 +1974,7 @@
       "Mod": "Core",
       "BasePrice": 1000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ThrumboHorn": {
       "DefName": "ThrumboHorn",
@@ -2257,7 +2257,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 1,
+      "BasePrice": 3,
       "Category": "Animal products",
       "Enabled": true
     },
@@ -2276,7 +2276,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 8,
+      "BasePrice": 13,
       "Category": "Animal products",
       "Enabled": true
     },
@@ -2297,7 +2297,7 @@
       "Mod": "Core",
       "BasePrice": 5,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "EggChickenUnfertilized": {
       "DefName": "EggChickenUnfertilized",
@@ -2335,7 +2335,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCobraFertilized": {
       "DefName": "EggCobraFertilized",
@@ -2354,7 +2354,7 @@
       "Mod": "Core",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCobraUnfertilized": {
       "DefName": "EggCobraUnfertilized",
@@ -2373,7 +2373,7 @@
       "Mod": "Core",
       "BasePrice": 14,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggIguanaFertilized": {
       "DefName": "EggIguanaFertilized",
@@ -2392,7 +2392,7 @@
       "Mod": "Core",
       "BasePrice": 25,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggIguanaUnfertilized": {
       "DefName": "EggIguanaUnfertilized",
@@ -2411,7 +2411,7 @@
       "Mod": "Core",
       "BasePrice": 17,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTortoiseFertilized": {
       "DefName": "EggTortoiseFertilized",
@@ -2430,7 +2430,7 @@
       "Mod": "Core",
       "BasePrice": 23,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTortoiseUnfertilized": {
       "DefName": "EggTortoiseUnfertilized",
@@ -2449,7 +2449,7 @@
       "Mod": "Core",
       "BasePrice": 17,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCassowaryFertilized": {
       "DefName": "EggCassowaryFertilized",
@@ -2468,7 +2468,7 @@
       "Mod": "Core",
       "BasePrice": 19,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCassowaryUnfertilized": {
       "DefName": "EggCassowaryUnfertilized",
@@ -2487,7 +2487,7 @@
       "Mod": "Core",
       "BasePrice": 14,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggEmuFertilized": {
       "DefName": "EggEmuFertilized",
@@ -2506,7 +2506,7 @@
       "Mod": "Core",
       "BasePrice": 18,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggEmuUnfertilized": {
       "DefName": "EggEmuUnfertilized",
@@ -2525,7 +2525,7 @@
       "Mod": "Core",
       "BasePrice": 12,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggOstrichFertilized": {
       "DefName": "EggOstrichFertilized",
@@ -2544,7 +2544,7 @@
       "Mod": "Core",
       "BasePrice": 23,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggOstrichUnfertilized": {
       "DefName": "EggOstrichUnfertilized",
@@ -2563,7 +2563,7 @@
       "Mod": "Core",
       "BasePrice": 15,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTurkeyFertilized": {
       "DefName": "EggTurkeyFertilized",
@@ -2582,7 +2582,7 @@
       "Mod": "Core",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTurkeyUnfertilized": {
       "DefName": "EggTurkeyUnfertilized",
@@ -2601,7 +2601,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggDuckUnfertilized": {
       "DefName": "EggDuckUnfertilized",
@@ -2639,7 +2639,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggGooseUnfertilized": {
       "DefName": "EggGooseUnfertilized",
@@ -2677,7 +2677,7 @@
       "Mod": "Core",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "MedicineHerbal": {
       "DefName": "MedicineHerbal",
@@ -2791,7 +2791,7 @@
       "Mod": "Core",
       "BasePrice": 6,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "Chemfuel": {
       "DefName": "Chemfuel",
@@ -2810,7 +2810,7 @@
       "Mod": "Core",
       "BasePrice": 2,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "ReinforcedBarrel": {
       "DefName": "ReinforcedBarrel",
@@ -2829,7 +2829,7 @@
       "Mod": "Core",
       "BasePrice": 600,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "RawPotatoes": {
       "DefName": "RawPotatoes",
@@ -3038,7 +3038,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Shell_Incendiary": {
       "DefName": "Shell_Incendiary",
@@ -3057,7 +3057,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Shell_EMP": {
       "DefName": "Shell_EMP",
@@ -3076,7 +3076,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Shell_Smoke": {
       "DefName": "Shell_Smoke",
@@ -3095,7 +3095,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Shell_Firefoam": {
       "DefName": "Shell_Firefoam",
@@ -3114,7 +3114,7 @@
       "Mod": "Core",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Shell_AntigrainWarhead": {
       "DefName": "Shell_AntigrainWarhead",
@@ -3133,7 +3133,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Silver": {
       "DefName": "Silver",
@@ -4577,7 +4577,7 @@
       "Mod": "Core",
       "BasePrice": 700,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Bear_Polar": {
       "DefName": "Bear_Polar",
@@ -4596,7 +4596,7 @@
       "Mod": "Core",
       "BasePrice": 700,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Ostrich": {
       "DefName": "Ostrich",
@@ -4615,7 +4615,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Emu": {
       "DefName": "Emu",
@@ -4634,7 +4634,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Cassowary": {
       "DefName": "Cassowary",
@@ -4653,7 +4653,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Cougar": {
       "DefName": "Cougar",
@@ -4672,7 +4672,7 @@
       "Mod": "Core",
       "BasePrice": 400,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Panther": {
       "DefName": "Panther",
@@ -4691,7 +4691,7 @@
       "Mod": "Core",
       "BasePrice": 400,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Lynx": {
       "DefName": "Lynx",
@@ -4710,7 +4710,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Cat": {
       "DefName": "Cat",
@@ -4729,7 +4729,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "YorkshireTerrier": {
       "DefName": "YorkshireTerrier",
@@ -4748,7 +4748,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "GuineaPig": {
       "DefName": "GuineaPig",
@@ -4767,7 +4767,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "LabradorRetriever": {
       "DefName": "LabradorRetriever",
@@ -4786,7 +4786,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Husky": {
       "DefName": "Husky",
@@ -4805,7 +4805,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Monkey": {
       "DefName": "Monkey",
@@ -4824,7 +4824,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Chicken": {
       "DefName": "Chicken",
@@ -4843,7 +4843,7 @@
       "Mod": "Core",
       "BasePrice": 50,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Duck": {
       "DefName": "Duck",
@@ -4862,7 +4862,7 @@
       "Mod": "Core",
       "BasePrice": 60,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Turkey": {
       "DefName": "Turkey",
@@ -4881,7 +4881,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Goose": {
       "DefName": "Goose",
@@ -4900,7 +4900,7 @@
       "Mod": "Core",
       "BasePrice": 90,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Cow": {
       "DefName": "Cow",
@@ -4919,7 +4919,7 @@
       "Mod": "Core",
       "BasePrice": 300,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Boomalope": {
       "DefName": "Boomalope",
@@ -4938,7 +4938,7 @@
       "Mod": "Core",
       "BasePrice": 350,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Muffalo": {
       "DefName": "Muffalo",
@@ -4957,7 +4957,7 @@
       "Mod": "Core",
       "BasePrice": 300,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Bison": {
       "DefName": "Bison",
@@ -4976,7 +4976,7 @@
       "Mod": "Core",
       "BasePrice": 350,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Dromedary": {
       "DefName": "Dromedary",
@@ -4995,7 +4995,7 @@
       "Mod": "Core",
       "BasePrice": 300,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Goat": {
       "DefName": "Goat",
@@ -5014,7 +5014,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Elk": {
       "DefName": "Elk",
@@ -5033,7 +5033,7 @@
       "Mod": "Core",
       "BasePrice": 300,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Yak": {
       "DefName": "Yak",
@@ -5052,7 +5052,7 @@
       "Mod": "Core",
       "BasePrice": 320,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Caribou": {
       "DefName": "Caribou",
@@ -5071,7 +5071,7 @@
       "Mod": "Core",
       "BasePrice": 300,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Horse": {
       "DefName": "Horse",
@@ -5090,7 +5090,7 @@
       "Mod": "Core",
       "BasePrice": 550,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Donkey": {
       "DefName": "Donkey",
@@ -5109,7 +5109,7 @@
       "Mod": "Core",
       "BasePrice": 320,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Elephant": {
       "DefName": "Elephant",
@@ -5128,7 +5128,7 @@
       "Mod": "Core",
       "BasePrice": 600,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Rhinoceros": {
       "DefName": "Rhinoceros",
@@ -5147,7 +5147,7 @@
       "Mod": "Core",
       "BasePrice": 700,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Hare": {
       "DefName": "Hare",
@@ -5166,7 +5166,7 @@
       "Mod": "Core",
       "BasePrice": 50,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Snowhare": {
       "DefName": "Snowhare",
@@ -5185,7 +5185,7 @@
       "Mod": "Core",
       "BasePrice": 50,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Megascarab": {
       "DefName": "Megascarab",
@@ -5204,7 +5204,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Spelopede": {
       "DefName": "Spelopede",
@@ -5223,7 +5223,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Megaspider": {
       "DefName": "Megaspider",
@@ -5242,7 +5242,7 @@
       "Mod": "Core",
       "BasePrice": 500,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Thrumbo": {
       "DefName": "Thrumbo",
@@ -5261,7 +5261,7 @@
       "Mod": "Core",
       "BasePrice": 4000,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Cobra": {
       "DefName": "Cobra",
@@ -5280,7 +5280,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Tortoise": {
       "DefName": "Tortoise",
@@ -5299,7 +5299,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Alphabeaver": {
       "DefName": "Alphabeaver",
@@ -5318,7 +5318,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Pig": {
       "DefName": "Pig",
@@ -5337,7 +5337,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "WildBoar": {
       "DefName": "WildBoar",
@@ -5356,7 +5356,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Ibex": {
       "DefName": "Ibex",
@@ -5375,7 +5375,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Deer": {
       "DefName": "Deer",
@@ -5394,7 +5394,7 @@
       "Mod": "Core",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Gazelle": {
       "DefName": "Gazelle",
@@ -5413,7 +5413,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Chinchilla": {
       "DefName": "Chinchilla",
@@ -5432,7 +5432,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Sheep": {
       "DefName": "Sheep",
@@ -5451,7 +5451,7 @@
       "Mod": "Core",
       "BasePrice": 210,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Alpaca": {
       "DefName": "Alpaca",
@@ -5468,9 +5468,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 350,
+      "BasePrice": 583,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Megasloth": {
       "DefName": "Megasloth",
@@ -5489,7 +5489,7 @@
       "Mod": "Core",
       "BasePrice": 700,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Capybara": {
       "DefName": "Capybara",
@@ -5508,7 +5508,7 @@
       "Mod": "Core",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Squirrel": {
       "DefName": "Squirrel",
@@ -5527,7 +5527,7 @@
       "Mod": "Core",
       "BasePrice": 35,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Rat": {
       "DefName": "Rat",
@@ -5546,7 +5546,7 @@
       "Mod": "Core",
       "BasePrice": 35,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Boomrat": {
       "DefName": "Boomrat",
@@ -5565,7 +5565,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Raccoon": {
       "DefName": "Raccoon",
@@ -5584,7 +5584,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Iguana": {
       "DefName": "Iguana",
@@ -5603,7 +5603,7 @@
       "Mod": "Core",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Warg": {
       "DefName": "Warg",
@@ -5622,7 +5622,7 @@
       "Mod": "Core",
       "BasePrice": 450,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolf_Timber": {
       "DefName": "Wolf_Timber",
@@ -5641,7 +5641,7 @@
       "Mod": "Core",
       "BasePrice": 350,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolf_Arctic": {
       "DefName": "Wolf_Arctic",
@@ -5658,9 +5658,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 350,
+      "BasePrice": 583,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Fox_Fennec": {
       "DefName": "Fox_Fennec",
@@ -5679,7 +5679,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Fox_Red": {
       "DefName": "Fox_Red",
@@ -5698,7 +5698,7 @@
       "Mod": "Core",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Fox_Arctic": {
       "DefName": "Fox_Arctic",
@@ -5715,9 +5715,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 200,
+      "BasePrice": 333,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeBlaster": {
       "DefName": "Mech_CentipedeBlaster",
@@ -5736,7 +5736,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeGunner": {
       "DefName": "Mech_CentipedeGunner",
@@ -5755,7 +5755,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeBurner": {
       "DefName": "Mech_CentipedeBurner",
@@ -5774,7 +5774,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lancer": {
       "DefName": "Mech_Lancer",
@@ -5793,7 +5793,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scyther": {
       "DefName": "Mech_Scyther",
@@ -5812,7 +5812,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Pikeman": {
       "DefName": "Mech_Pikeman",
@@ -5831,7 +5831,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Termite": {
       "DefName": "Mech_Termite",
@@ -5850,7 +5850,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "ArchotechEye": {
       "DefName": "ArchotechEye",
@@ -7085,7 +7085,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Archotech",
-      "Enabled": true
+      "Enabled": false
     },
     "PsychicHarmonizer": {
       "DefName": "PsychicHarmonizer",
@@ -7104,7 +7104,7 @@
       "Mod": "Royalty",
       "BasePrice": 800,
       "Category": "Archotech",
-      "Enabled": true
+      "Enabled": false
     },
     "PsychicReader": {
       "DefName": "PsychicReader",
@@ -7123,7 +7123,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Archotech",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurocalculator": {
       "DefName": "Neurocalculator",
@@ -7617,7 +7617,7 @@
       "Mod": "Royalty",
       "BasePrice": 365,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Brazier": {
       "DefName": "Brazier",
@@ -7636,7 +7636,7 @@
       "Mod": "Royalty",
       "BasePrice": 103,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "DarklightBrazier": {
       "DefName": "DarklightBrazier",
@@ -7655,7 +7655,7 @@
       "Mod": "Royalty",
       "BasePrice": 103,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Throne": {
       "DefName": "Throne",
@@ -7674,7 +7674,7 @@
       "Mod": "Royalty",
       "BasePrice": 285,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GrandThrone": {
       "DefName": "GrandThrone",
@@ -7693,7 +7693,7 @@
       "Mod": "Royalty",
       "BasePrice": 1495,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "UnstablePowerCell": {
       "DefName": "UnstablePowerCell",
@@ -7712,7 +7712,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "ShipLandingBeacon": {
       "DefName": "ShipLandingBeacon",
@@ -7731,7 +7731,7 @@
       "Mod": "Royalty",
       "BasePrice": 110,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "NatureShrine_Small": {
       "DefName": "NatureShrine_Small",
@@ -7750,7 +7750,7 @@
       "Mod": "Royalty",
       "BasePrice": 355,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "NatureShrine_Large": {
       "DefName": "NatureShrine_Large",
@@ -7769,7 +7769,7 @@
       "Mod": "Royalty",
       "BasePrice": 710,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AnimusStone": {
       "DefName": "AnimusStone",
@@ -7788,7 +7788,7 @@
       "Mod": "Royalty",
       "BasePrice": 5000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Harp": {
       "DefName": "Harp",
@@ -7807,7 +7807,7 @@
       "Mod": "Royalty",
       "BasePrice": 245,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "Harpsichord": {
       "DefName": "Harpsichord",
@@ -7826,7 +7826,7 @@
       "Mod": "Royalty",
       "BasePrice": 415,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "Piano": {
       "DefName": "Piano",
@@ -7845,7 +7845,7 @@
       "Mod": "Royalty",
       "BasePrice": 670,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_PackJump": {
       "DefName": "Apparel_PackJump",
@@ -8415,7 +8415,7 @@
       "Mod": "Royalty",
       "BasePrice": 350,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "MeleeWeapon_MonoSwordBladelink": {
       "DefName": "MeleeWeapon_MonoSwordBladelink",
@@ -8624,7 +8624,7 @@
       "Mod": "Ideology",
       "BasePrice": 310,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "SleepAccelerator": {
       "DefName": "SleepAccelerator",
@@ -8643,7 +8643,7 @@
       "Mod": "Ideology",
       "BasePrice": 275,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "BiosculpterPod": {
       "DefName": "BiosculpterPod",
@@ -8662,7 +8662,7 @@
       "Mod": "Ideology",
       "BasePrice": 455,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "NeuralSupercharger": {
       "DefName": "NeuralSupercharger",
@@ -8681,7 +8681,7 @@
       "Mod": "Ideology",
       "BasePrice": 245,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ChristmasTree": {
       "DefName": "ChristmasTree",
@@ -8700,7 +8700,7 @@
       "Mod": "Ideology",
       "BasePrice": 158,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "CannibalPlatter": {
       "DefName": "CannibalPlatter",
@@ -8719,7 +8719,7 @@
       "Mod": "Ideology",
       "BasePrice": 132,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Effigy": {
       "DefName": "Effigy",
@@ -8738,7 +8738,7 @@
       "Mod": "Ideology",
       "BasePrice": 106,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "SacrificialFlag": {
       "DefName": "SacrificialFlag",
@@ -8757,7 +8757,7 @@
       "Mod": "Ideology",
       "BasePrice": 118,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Pyre": {
       "DefName": "Pyre",
@@ -8776,7 +8776,7 @@
       "Mod": "Ideology",
       "BasePrice": 138,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Burnbong": {
       "DefName": "Burnbong",
@@ -8795,7 +8795,7 @@
       "Mod": "Ideology",
       "BasePrice": 310,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "IncenseShrine": {
       "DefName": "IncenseShrine",
@@ -8814,7 +8814,7 @@
       "Mod": "Ideology",
       "BasePrice": 163,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Lectern": {
       "DefName": "Lectern",
@@ -8833,7 +8833,7 @@
       "Mod": "Ideology",
       "BasePrice": 118,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "StylingStation": {
       "DefName": "StylingStation",
@@ -8852,7 +8852,7 @@
       "Mod": "Ideology",
       "BasePrice": 225,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GibbetCage": {
       "DefName": "GibbetCage",
@@ -8871,7 +8871,7 @@
       "Mod": "Ideology",
       "BasePrice": 125,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "LightBall": {
       "DefName": "LightBall",
@@ -8890,7 +8890,7 @@
       "Mod": "Ideology",
       "BasePrice": 92,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Loudspeaker": {
       "DefName": "Loudspeaker",
@@ -8909,7 +8909,7 @@
       "Mod": "Ideology",
       "BasePrice": 220,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drum": {
       "DefName": "Drum",
@@ -8928,7 +8928,7 @@
       "Mod": "Ideology",
       "BasePrice": 122,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "Pew": {
       "DefName": "Pew",
@@ -8947,7 +8947,7 @@
       "Mod": "Ideology",
       "BasePrice": 210,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "KneelSheet": {
       "DefName": "KneelSheet",
@@ -8966,7 +8966,7 @@
       "Mod": "Ideology",
       "BasePrice": 168,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "KneelPillow": {
       "DefName": "KneelPillow",
@@ -8985,7 +8985,7 @@
       "Mod": "Ideology",
       "BasePrice": 58,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "PlantPot_Bonsai": {
       "DefName": "PlantPot_Bonsai",
@@ -9004,7 +9004,7 @@
       "Mod": "Ideology",
       "BasePrice": 48,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SlabBed": {
       "DefName": "SlabBed",
@@ -9023,7 +9023,7 @@
       "Mod": "Ideology",
       "BasePrice": 61,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SlabDoubleBed": {
       "DefName": "SlabDoubleBed",
@@ -9042,7 +9042,7 @@
       "Mod": "Ideology",
       "BasePrice": 172,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Skullspike": {
       "DefName": "Skullspike",
@@ -9061,7 +9061,7 @@
       "Mod": "Ideology",
       "BasePrice": 60,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_Headwrap": {
       "DefName": "Apparel_Headwrap",
@@ -9327,7 +9327,7 @@
       "Mod": "Ideology",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "MorbidSlab_Broad": {
       "DefName": "MorbidSlab_Broad",
@@ -9346,7 +9346,7 @@
       "Mod": "Ideology",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "TotemicSlab_Medium": {
       "DefName": "TotemicSlab_Medium",
@@ -9365,7 +9365,7 @@
       "Mod": "Ideology",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "TotemicSlab_Broad": {
       "DefName": "TotemicSlab_Broad",
@@ -9384,7 +9384,7 @@
       "Mod": "Ideology",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SpikecoreFloorStar_Medium": {
       "DefName": "SpikecoreFloorStar_Medium",
@@ -9403,7 +9403,7 @@
       "Mod": "Ideology",
       "BasePrice": 193,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SpikecoreFloorStar_Broad": {
       "DefName": "SpikecoreFloorStar_Broad",
@@ -9422,7 +9422,7 @@
       "Mod": "Ideology",
       "BasePrice": 290,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "RusticRug_Medium": {
       "DefName": "RusticRug_Medium",
@@ -9441,7 +9441,7 @@
       "Mod": "Ideology",
       "BasePrice": 153,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "RusticRug_Broad": {
       "DefName": "RusticRug_Broad",
@@ -9460,7 +9460,7 @@
       "Mod": "Ideology",
       "BasePrice": 230,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "AnimalistSlab_Medium": {
       "DefName": "AnimalistSlab_Medium",
@@ -9479,7 +9479,7 @@
       "Mod": "Ideology",
       "BasePrice": 205,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "AnimalistSlab_Broad": {
       "DefName": "AnimalistSlab_Broad",
@@ -9498,7 +9498,7 @@
       "Mod": "Ideology",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertCup": {
       "DefName": "RelicInertCup",
@@ -9517,7 +9517,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertPendant": {
       "DefName": "RelicInertPendant",
@@ -9536,7 +9536,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertBox": {
       "DefName": "RelicInertBox",
@@ -9555,7 +9555,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertTablet": {
       "DefName": "RelicInertTablet",
@@ -9574,7 +9574,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertFragment": {
       "DefName": "RelicInertFragment",
@@ -9593,7 +9593,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertSwordHandle": {
       "DefName": "RelicInertSwordHandle",
@@ -9612,7 +9612,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertArk": {
       "DefName": "RelicInertArk",
@@ -9631,7 +9631,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "RelicInertCube": {
       "DefName": "RelicInertCube",
@@ -9650,7 +9650,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true
+      "Enabled": false
     },
     "GauranlenSeed": {
       "DefName": "GauranlenSeed",
@@ -9669,7 +9669,7 @@
       "Mod": "Ideology",
       "BasePrice": 70,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "DetoxifierLung": {
       "DefName": "DetoxifierLung",
@@ -9726,7 +9726,7 @@
       "Mod": "Biotech",
       "BasePrice": 500,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "ControlSublink": {
       "DefName": "ControlSublink",
@@ -9745,7 +9745,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "ControlSublinkHigh": {
       "DefName": "ControlSublinkHigh",
@@ -9764,7 +9764,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "RemoteRepairer": {
       "DefName": "RemoteRepairer",
@@ -9783,7 +9783,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "MechFormfeeder": {
       "DefName": "MechFormfeeder",
@@ -9802,7 +9802,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "RemoteShielder": {
       "DefName": "RemoteShielder",
@@ -9821,7 +9821,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "RepairProbe": {
       "DefName": "RepairProbe",
@@ -9840,7 +9840,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechtech",
-      "Enabled": true
+      "Enabled": false
     },
     "DeathrestCasket": {
       "DefName": "DeathrestCasket",
@@ -9859,7 +9859,7 @@
       "Mod": "Biotech",
       "BasePrice": 295,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Hemopump": {
       "DefName": "Hemopump",
@@ -9878,7 +9878,7 @@
       "Mod": "Biotech",
       "BasePrice": 360,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "HemogenAmplifier": {
       "DefName": "HemogenAmplifier",
@@ -9897,7 +9897,7 @@
       "Mod": "Biotech",
       "BasePrice": 550,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GlucosoidPump": {
       "DefName": "GlucosoidPump",
@@ -9916,7 +9916,7 @@
       "Mod": "Biotech",
       "BasePrice": 515,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "PsychofluidPump": {
       "DefName": "PsychofluidPump",
@@ -9935,7 +9935,7 @@
       "Mod": "Biotech",
       "BasePrice": 1225,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "DeathrestAccelerator": {
       "DefName": "DeathrestAccelerator",
@@ -9954,7 +9954,7 @@
       "Mod": "Biotech",
       "BasePrice": 710,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ToyBox": {
       "DefName": "ToyBox",
@@ -9973,7 +9973,7 @@
       "Mod": "Biotech",
       "BasePrice": 164,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SchoolDesk": {
       "DefName": "SchoolDesk",
@@ -9992,7 +9992,7 @@
       "Mod": "Biotech",
       "BasePrice": 62,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "BabyDecoration": {
       "DefName": "BabyDecoration",
@@ -10011,7 +10011,7 @@
       "Mod": "Biotech",
       "BasePrice": 122,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Crib": {
       "DefName": "Crib",
@@ -10030,7 +10030,7 @@
       "Mod": "Biotech",
       "BasePrice": 51,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Blackboard": {
       "DefName": "Blackboard",
@@ -10049,7 +10049,7 @@
       "Mod": "Biotech",
       "BasePrice": 33,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GeneBank": {
       "DefName": "GeneBank",
@@ -10068,7 +10068,7 @@
       "Mod": "Biotech",
       "BasePrice": 145,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "PollutionPump": {
       "DefName": "PollutionPump",
@@ -10087,7 +10087,7 @@
       "Mod": "Biotech",
       "BasePrice": 188,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "SanguphageMeetingTorch": {
       "DefName": "SanguphageMeetingTorch",
@@ -10106,7 +10106,7 @@
       "Mod": "Biotech",
       "BasePrice": 24,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "MechBooster": {
       "DefName": "MechBooster",
@@ -10125,7 +10125,7 @@
       "Mod": "Biotech",
       "BasePrice": 345,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "TrapIED_ToxGas": {
       "DefName": "TrapIED_ToxGas",
@@ -10144,7 +10144,7 @@
       "Mod": "Biotech",
       "BasePrice": 115,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "SubcoreEncoder": {
       "DefName": "SubcoreEncoder",
@@ -10163,7 +10163,7 @@
       "Mod": "Biotech",
       "BasePrice": 315,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "BabyFood": {
       "DefName": "BabyFood",
@@ -10258,7 +10258,7 @@
       "Mod": "Biotech",
       "BasePrice": 300,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "SubcoreHigh": {
       "DefName": "SubcoreHigh",
@@ -10277,7 +10277,7 @@
       "Mod": "Biotech",
       "BasePrice": 1000,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "SignalChip": {
       "DefName": "SignalChip",
@@ -10296,7 +10296,7 @@
       "Mod": "Biotech",
       "BasePrice": 500,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "PowerfocusChip": {
       "DefName": "PowerfocusChip",
@@ -10315,7 +10315,7 @@
       "Mod": "Biotech",
       "BasePrice": 1000,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "NanostructuringChip": {
       "DefName": "NanostructuringChip",
@@ -10334,7 +10334,7 @@
       "Mod": "Biotech",
       "BasePrice": 1500,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "DeathrestCapacitySerum": {
       "DefName": "DeathrestCapacitySerum",
@@ -10372,7 +10372,7 @@
       "Mod": "Biotech",
       "BasePrice": 55,
       "Category": "Mortar shells",
-      "Enabled": true
+      "Enabled": false
     },
     "Genepack": {
       "DefName": "Genepack",
@@ -10391,7 +10391,7 @@
       "Mod": "Biotech",
       "BasePrice": 100,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Xenogerm": {
       "DefName": "Xenogerm",
@@ -10410,7 +10410,7 @@
       "Mod": "Biotech",
       "BasePrice": 20,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ArchiteCapsule": {
       "DefName": "ArchiteCapsule",
@@ -10429,7 +10429,7 @@
       "Mod": "Biotech",
       "BasePrice": 700,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "MechanoidTransponder": {
       "DefName": "MechanoidTransponder",
@@ -10448,7 +10448,7 @@
       "Mod": "Biotech",
       "BasePrice": 200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "HumanOvum": {
       "DefName": "HumanOvum",
@@ -10467,7 +10467,7 @@
       "Mod": "Biotech",
       "BasePrice": 50,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "HumanEmbryo": {
       "DefName": "HumanEmbryo",
@@ -10486,7 +10486,7 @@
       "Mod": "Biotech",
       "BasePrice": 50,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_KidRomper": {
       "DefName": "Apparel_KidRomper",
@@ -10847,7 +10847,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "WasteRat": {
       "DefName": "WasteRat",
@@ -10866,7 +10866,7 @@
       "Mod": "Biotech",
       "BasePrice": 35,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Toxalope": {
       "DefName": "Toxalope",
@@ -10885,7 +10885,7 @@
       "Mod": "Biotech",
       "BasePrice": 350,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tunneler": {
       "DefName": "Mech_Tunneler",
@@ -10904,7 +10904,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Militor": {
       "DefName": "Mech_Militor",
@@ -10923,7 +10923,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lifter": {
       "DefName": "Mech_Lifter",
@@ -10942,7 +10942,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Constructoid": {
       "DefName": "Mech_Constructoid",
@@ -10961,7 +10961,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Fabricor": {
       "DefName": "Mech_Fabricor",
@@ -10980,7 +10980,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Agrihand": {
       "DefName": "Mech_Agrihand",
@@ -10999,7 +10999,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Cleansweeper": {
       "DefName": "Mech_Cleansweeper",
@@ -11018,7 +11018,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_WarUrchin": {
       "DefName": "Mech_WarUrchin",
@@ -11037,7 +11037,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Paramedic": {
       "DefName": "Mech_Paramedic",
@@ -11056,7 +11056,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Legionary": {
       "DefName": "Mech_Legionary",
@@ -11075,7 +11075,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tesseron": {
       "DefName": "Mech_Tesseron",
@@ -11094,7 +11094,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scorcher": {
       "DefName": "Mech_Scorcher",
@@ -11113,7 +11113,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Apocriton": {
       "DefName": "Mech_Apocriton",
@@ -11132,7 +11132,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Centurion": {
       "DefName": "Mech_Centurion",
@@ -11151,7 +11151,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Warqueen": {
       "DefName": "Mech_Warqueen",
@@ -11170,7 +11170,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Diabolus": {
       "DefName": "Mech_Diabolus",
@@ -11189,7 +11189,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_ToxbombLauncher": {
       "DefName": "Gun_ToxbombLauncher",
@@ -11436,7 +11436,7 @@
       "Mod": "Anomaly",
       "BasePrice": 94,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "CorrosiveHeart": {
       "DefName": "CorrosiveHeart",
@@ -11455,7 +11455,7 @@
       "Mod": "Anomaly",
       "BasePrice": 94,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "MetalbloodHeart": {
       "DefName": "MetalbloodHeart",
@@ -11474,7 +11474,7 @@
       "Mod": "Anomaly",
       "BasePrice": 94,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "RevenantVertebrae": {
       "DefName": "RevenantVertebrae",
@@ -11512,7 +11512,7 @@
       "Mod": "Anomaly",
       "BasePrice": 83,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "DirtCubeSculpture": {
       "DefName": "DirtCubeSculpture",
@@ -11531,7 +11531,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "StoneCubeSculpture": {
       "DefName": "StoneCubeSculpture",
@@ -11550,7 +11550,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "SandCubeSculpture": {
       "DefName": "SandCubeSculpture",
@@ -11569,7 +11569,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "ScrapCubeSculpture": {
       "DefName": "ScrapCubeSculpture",
@@ -11588,7 +11588,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "ElectricInhibitor": {
       "DefName": "ElectricInhibitor",
@@ -11607,7 +11607,7 @@
       "Mod": "Anomaly",
       "BasePrice": 133,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ShardInhibitor": {
       "DefName": "ShardInhibitor",
@@ -11626,7 +11626,7 @@
       "Mod": "Anomaly",
       "BasePrice": 430,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ProximityDetector": {
       "DefName": "ProximityDetector",
@@ -11645,7 +11645,7 @@
       "Mod": "Anomaly",
       "BasePrice": 64,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "FrenzyInducer": {
       "DefName": "FrenzyInducer",
@@ -11664,7 +11664,7 @@
       "Mod": "Anomaly",
       "BasePrice": 495,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "SleepSuppressor": {
       "DefName": "SleepSuppressor",
@@ -11683,7 +11683,7 @@
       "Mod": "Anomaly",
       "BasePrice": 545,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Electroharvester": {
       "DefName": "Electroharvester",
@@ -11702,7 +11702,7 @@
       "Mod": "Anomaly",
       "BasePrice": 160,
       "Category": "Power",
-      "Enabled": true
+      "Enabled": false
     },
     "BioferriteShaper": {
       "DefName": "BioferriteShaper",
@@ -11721,7 +11721,7 @@
       "Mod": "Anomaly",
       "BasePrice": 199,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "SerumCentrifuge": {
       "DefName": "SerumCentrifuge",
@@ -11740,7 +11740,7 @@
       "Mod": "Anomaly",
       "BasePrice": 725,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "BioferriteHarvester": {
       "DefName": "BioferriteHarvester",
@@ -11759,7 +11759,7 @@
       "Mod": "Anomaly",
       "BasePrice": 141,
       "Category": "Power",
-      "Enabled": true
+      "Enabled": false
     },
     "ShardBeacon": {
       "DefName": "ShardBeacon",
@@ -11778,7 +11778,7 @@
       "Mod": "Anomaly",
       "BasePrice": 425,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VoidSculpture": {
       "DefName": "VoidSculpture",
@@ -11797,7 +11797,7 @@
       "Mod": "Anomaly",
       "BasePrice": 123,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "ShardAnimalPulser": {
       "DefName": "ShardAnimalPulser",
@@ -11816,7 +11816,7 @@
       "Mod": "Anomaly",
       "BasePrice": 525,
       "Category": "Artifacts",
-      "Enabled": true
+      "Enabled": false
     },
     "BiomutationPulser": {
       "DefName": "BiomutationPulser",
@@ -11835,7 +11835,7 @@
       "Mod": "Anomaly",
       "BasePrice": 800,
       "Category": "Artifacts",
-      "Enabled": true
+      "Enabled": false
     },
     "VoidsightSerum": {
       "DefName": "VoidsightSerum",
@@ -11968,7 +11968,7 @@
       "Mod": "Anomaly",
       "BasePrice": 400,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "RevenantSpine": {
       "DefName": "RevenantSpine",
@@ -11987,7 +11987,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Meat_Twisted": {
       "DefName": "Meat_Twisted",
@@ -12025,7 +12025,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "MonolithFragment": {
       "DefName": "MonolithFragment",
@@ -12044,7 +12044,7 @@
       "Mod": "Anomaly",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_CultistMask": {
       "DefName": "Apparel_CultistMask",
@@ -12215,7 +12215,7 @@
       "Mod": "Anomaly",
       "BasePrice": 600,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_HellcatRifle": {
       "DefName": "Gun_HellcatRifle",
@@ -12329,7 +12329,7 @@
       "Mod": "Odyssey",
       "BasePrice": 110,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "PilotAssistant": {
       "DefName": "PilotAssistant",
@@ -12386,7 +12386,7 @@
       "Mod": "Odyssey",
       "BasePrice": 205,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "Building_OutfitStand": {
       "DefName": "Building_OutfitStand",
@@ -12405,7 +12405,7 @@
       "Mod": "Odyssey",
       "BasePrice": 71,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Building_KidOutfitStand": {
       "DefName": "Building_KidOutfitStand",
@@ -12424,7 +12424,7 @@
       "Mod": "Odyssey",
       "BasePrice": 61,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GravEngine": {
       "DefName": "GravEngine",
@@ -12443,7 +12443,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GravFieldExtender": {
       "DefName": "GravFieldExtender",
@@ -12462,7 +12462,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1610,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "PilotConsole": {
       "DefName": "PilotConsole",
@@ -12481,7 +12481,7 @@
       "Mod": "Odyssey",
       "BasePrice": 370,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "SmallThruster": {
       "DefName": "SmallThruster",
@@ -12500,7 +12500,7 @@
       "Mod": "Odyssey",
       "BasePrice": 505,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "LargeThruster": {
       "DefName": "LargeThruster",
@@ -12519,7 +12519,7 @@
       "Mod": "Odyssey",
       "BasePrice": 760,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "FuelOptimizer": {
       "DefName": "FuelOptimizer",
@@ -12538,7 +12538,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1550,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "SignalJammer": {
       "DefName": "SignalJammer",
@@ -12557,7 +12557,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2860,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GravcorePowerCell": {
       "DefName": "GravcorePowerCell",
@@ -12576,7 +12576,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1980,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "PilotSubpersonaCore": {
       "DefName": "PilotSubpersonaCore",
@@ -12595,7 +12595,7 @@
       "Mod": "Odyssey",
       "BasePrice": 975,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GravshipShieldGenerator": {
       "DefName": "GravshipShieldGenerator",
@@ -12614,7 +12614,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2300,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AncientMiningCharge": {
       "DefName": "AncientMiningCharge",
@@ -12633,7 +12633,7 @@
       "Mod": "Odyssey",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "OxygenPump": {
       "DefName": "OxygenPump",
@@ -12652,7 +12652,7 @@
       "Mod": "Odyssey",
       "BasePrice": 200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "HunterDroneTrap": {
       "DefName": "HunterDroneTrap",
@@ -12671,7 +12671,7 @@
       "Mod": "Odyssey",
       "BasePrice": 180,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "WaspDroneTrap": {
       "DefName": "WaspDroneTrap",
@@ -12690,7 +12690,7 @@
       "Mod": "Odyssey",
       "BasePrice": 80,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "MastodonTusk": {
       "DefName": "MastodonTusk",
@@ -12747,7 +12747,7 @@
       "Mod": "Odyssey",
       "BasePrice": 400,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMonitorLizardFertilized": {
       "DefName": "EggMonitorLizardFertilized",
@@ -12766,7 +12766,7 @@
       "Mod": "Odyssey",
       "BasePrice": 26,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMonitorLizardUnfertilized": {
       "DefName": "EggMonitorLizardUnfertilized",
@@ -12785,7 +12785,7 @@
       "Mod": "Odyssey",
       "BasePrice": 9,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggFlamingoFertilized": {
       "DefName": "EggFlamingoFertilized",
@@ -12804,7 +12804,7 @@
       "Mod": "Odyssey",
       "BasePrice": 26,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggFlamingoUnfertilized": {
       "DefName": "EggFlamingoUnfertilized",
@@ -12823,7 +12823,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggHeronFertilized": {
       "DefName": "EggHeronFertilized",
@@ -12842,7 +12842,7 @@
       "Mod": "Odyssey",
       "BasePrice": 18,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggHeronUnfertilized": {
       "DefName": "EggHeronUnfertilized",
@@ -12861,7 +12861,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSwanFertilized": {
       "DefName": "EggSwanFertilized",
@@ -12880,7 +12880,7 @@
       "Mod": "Odyssey",
       "BasePrice": 15,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSwanUnfertilized": {
       "DefName": "EggSwanUnfertilized",
@@ -12899,7 +12899,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSparrowFertilized": {
       "DefName": "EggSparrowFertilized",
@@ -12918,7 +12918,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSparrowUnfertilized": {
       "DefName": "EggSparrowUnfertilized",
@@ -12937,7 +12937,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCrowFertilized": {
       "DefName": "EggCrowFertilized",
@@ -12956,7 +12956,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCrowUnfertilized": {
       "DefName": "EggCrowUnfertilized",
@@ -12975,7 +12975,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBluebirdFertilized": {
       "DefName": "EggBluebirdFertilized",
@@ -12994,7 +12994,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBluebirdUnfertilized": {
       "DefName": "EggBluebirdUnfertilized",
@@ -13013,7 +13013,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggQuailFertilized": {
       "DefName": "EggQuailFertilized",
@@ -13032,7 +13032,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggQuailUnfertilized": {
       "DefName": "EggQuailUnfertilized",
@@ -13051,7 +13051,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMacawFertilized": {
       "DefName": "EggMacawFertilized",
@@ -13070,7 +13070,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMacawUnfertilized": {
       "DefName": "EggMacawUnfertilized",
@@ -13089,7 +13089,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPeacockFertilized": {
       "DefName": "EggPeacockFertilized",
@@ -13108,7 +13108,7 @@
       "Mod": "Odyssey",
       "BasePrice": 26,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPeacockUnfertilized": {
       "DefName": "EggPeacockUnfertilized",
@@ -13127,7 +13127,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggVultureFertilized": {
       "DefName": "EggVultureFertilized",
@@ -13146,7 +13146,7 @@
       "Mod": "Odyssey",
       "BasePrice": 16,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggVultureUnfertilized": {
       "DefName": "EggVultureUnfertilized",
@@ -13165,7 +13165,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPenguinFertilized": {
       "DefName": "EggPenguinFertilized",
@@ -13184,7 +13184,7 @@
       "Mod": "Odyssey",
       "BasePrice": 25,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPenguinUnfertilized": {
       "DefName": "EggPenguinUnfertilized",
@@ -13203,7 +13203,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSeaTurtleFertilized": {
       "DefName": "EggSeaTurtleFertilized",
@@ -13222,7 +13222,7 @@
       "Mod": "Odyssey",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSeaTurtleUnfertilized": {
       "DefName": "EggSeaTurtleUnfertilized",
@@ -13241,7 +13241,7 @@
       "Mod": "Odyssey",
       "BasePrice": 9,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggAlligatorFertilized": {
       "DefName": "EggAlligatorFertilized",
@@ -13260,7 +13260,7 @@
       "Mod": "Odyssey",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggAlligatorUnfertilized": {
       "DefName": "EggAlligatorUnfertilized",
@@ -13279,7 +13279,7 @@
       "Mod": "Odyssey",
       "BasePrice": 17,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "WoolMastodon": {
       "DefName": "WoolMastodon",
@@ -13602,7 +13602,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1250,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "GravlitePanel": {
       "DefName": "GravlitePanel",
@@ -13640,7 +13640,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2500,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "Obsidian": {
       "DefName": "Obsidian",
@@ -14153,7 +14153,7 @@
       "Mod": "Odyssey",
       "BasePrice": 650,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "BogHound": {
       "DefName": "BogHound",
@@ -14172,7 +14172,7 @@
       "Mod": "Odyssey",
       "BasePrice": 220,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "MonitorLizard": {
       "DefName": "MonitorLizard",
@@ -14191,7 +14191,7 @@
       "Mod": "Odyssey",
       "BasePrice": 175,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "PrairieDog": {
       "DefName": "PrairieDog",
@@ -14210,7 +14210,7 @@
       "Mod": "Odyssey",
       "BasePrice": 30,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Porcupine": {
       "DefName": "Porcupine",
@@ -14229,7 +14229,7 @@
       "Mod": "Odyssey",
       "BasePrice": 35,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Mastodon": {
       "DefName": "Mastodon",
@@ -14248,7 +14248,7 @@
       "Mod": "Odyssey",
       "BasePrice": 740,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Cat_Scimitar": {
       "DefName": "Cat_Scimitar",
@@ -14267,7 +14267,7 @@
       "Mod": "Odyssey",
       "BasePrice": 500,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolverine": {
       "DefName": "Wolverine",
@@ -14286,7 +14286,7 @@
       "Mod": "Odyssey",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolf_Great": {
       "DefName": "Wolf_Great",
@@ -14305,7 +14305,7 @@
       "Mod": "Odyssey",
       "BasePrice": 500,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Moose": {
       "DefName": "Moose",
@@ -14324,7 +14324,7 @@
       "Mod": "Odyssey",
       "BasePrice": 375,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "AlphaThrumbo": {
       "DefName": "AlphaThrumbo",
@@ -14343,7 +14343,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7000,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Muskox": {
       "DefName": "Muskox",
@@ -14362,7 +14362,7 @@
       "Mod": "Odyssey",
       "BasePrice": 370,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Tiger": {
       "DefName": "Tiger",
@@ -14381,7 +14381,7 @@
       "Mod": "Odyssey",
       "BasePrice": 450,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Mink": {
       "DefName": "Mink",
@@ -14400,7 +14400,7 @@
       "Mod": "Odyssey",
       "BasePrice": 160,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Gorilla": {
       "DefName": "Gorilla",
@@ -14419,7 +14419,7 @@
       "Mod": "Odyssey",
       "BasePrice": 600,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Badger": {
       "DefName": "Badger",
@@ -14438,7 +14438,7 @@
       "Mod": "Odyssey",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Panda": {
       "DefName": "Panda",
@@ -14457,7 +14457,7 @@
       "Mod": "Odyssey",
       "BasePrice": 400,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Hippo": {
       "DefName": "Hippo",
@@ -14476,7 +14476,7 @@
       "Mod": "Odyssey",
       "BasePrice": 600,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Megavole": {
       "DefName": "Megavole",
@@ -14495,7 +14495,7 @@
       "Mod": "Odyssey",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Armadillo": {
       "DefName": "Armadillo",
@@ -14514,7 +14514,7 @@
       "Mod": "Odyssey",
       "BasePrice": 100,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Alligator": {
       "DefName": "Alligator",
@@ -14533,7 +14533,7 @@
       "Mod": "Odyssey",
       "BasePrice": 350,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Bullfrog": {
       "DefName": "Bullfrog",
@@ -14552,7 +14552,7 @@
       "Mod": "Odyssey",
       "BasePrice": 60,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "ColossusToad": {
       "DefName": "ColossusToad",
@@ -14571,7 +14571,7 @@
       "Mod": "Odyssey",
       "BasePrice": 220,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "LavaSnail": {
       "DefName": "LavaSnail",
@@ -14590,7 +14590,7 @@
       "Mod": "Odyssey",
       "BasePrice": 180,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Sparrow": {
       "DefName": "Sparrow",
@@ -14609,7 +14609,7 @@
       "Mod": "Odyssey",
       "BasePrice": 30,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Crow": {
       "DefName": "Crow",
@@ -14628,7 +14628,7 @@
       "Mod": "Odyssey",
       "BasePrice": 30,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Bluebird": {
       "DefName": "Bluebird",
@@ -14647,7 +14647,7 @@
       "Mod": "Odyssey",
       "BasePrice": 30,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Quail": {
       "DefName": "Quail",
@@ -14666,7 +14666,7 @@
       "Mod": "Odyssey",
       "BasePrice": 30,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Macaw": {
       "DefName": "Macaw",
@@ -14685,7 +14685,7 @@
       "Mod": "Odyssey",
       "BasePrice": 90,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Flamingo": {
       "DefName": "Flamingo",
@@ -14704,7 +14704,7 @@
       "Mod": "Odyssey",
       "BasePrice": 120,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Heron": {
       "DefName": "Heron",
@@ -14723,7 +14723,7 @@
       "Mod": "Odyssey",
       "BasePrice": 120,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Swan": {
       "DefName": "Swan",
@@ -14742,7 +14742,7 @@
       "Mod": "Odyssey",
       "BasePrice": 200,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Peacock": {
       "DefName": "Peacock",
@@ -14761,7 +14761,7 @@
       "Mod": "Odyssey",
       "BasePrice": 180,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Vulture": {
       "DefName": "Vulture",
@@ -14780,7 +14780,7 @@
       "Mod": "Odyssey",
       "BasePrice": 120,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Penguin": {
       "DefName": "Penguin",
@@ -14799,7 +14799,7 @@
       "Mod": "Odyssey",
       "BasePrice": 150,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Walrus": {
       "DefName": "Walrus",
@@ -14818,7 +14818,7 @@
       "Mod": "Odyssey",
       "BasePrice": 300,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "SeaLion": {
       "DefName": "SeaLion",
@@ -14837,7 +14837,7 @@
       "Mod": "Odyssey",
       "BasePrice": 320,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Seal": {
       "DefName": "Seal",
@@ -14856,7 +14856,7 @@
       "Mod": "Odyssey",
       "BasePrice": 290,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "HermitCrab": {
       "DefName": "HermitCrab",
@@ -14875,7 +14875,7 @@
       "Mod": "Odyssey",
       "BasePrice": 60,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "StoneCrab": {
       "DefName": "StoneCrab",
@@ -14894,7 +14894,7 @@
       "Mod": "Odyssey",
       "BasePrice": 80,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "SeaTurtle": {
       "DefName": "SeaTurtle",
@@ -14913,7 +14913,7 @@
       "Mod": "Odyssey",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Otter": {
       "DefName": "Otter",
@@ -14932,7 +14932,7 @@
       "Mod": "Odyssey",
       "BasePrice": 60,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Larva": {
       "DefName": "Larva",
@@ -14951,7 +14951,7 @@
       "Mod": "Odyssey",
       "BasePrice": 35,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "HiveQueen": {
       "DefName": "HiveQueen",
@@ -14970,7 +14970,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Locust": {
       "DefName": "Locust",
@@ -14989,7 +14989,7 @@
       "Mod": "Odyssey",
       "BasePrice": 120,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Hunter": {
       "DefName": "Drone_Hunter",
@@ -15008,7 +15008,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Wasp": {
       "DefName": "Drone_Wasp",
@@ -15027,7 +15027,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Sentry": {
       "DefName": "Drone_Sentry",
@@ -15046,7 +15046,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Cyclops": {
       "DefName": "Mech_Cyclops",
@@ -15065,7 +15065,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_BeamRepeater": {
       "DefName": "Gun_BeamRepeater",
@@ -15122,7 +15122,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 154,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_VeryBigShelf": {
       "DefName": "LWM_VeryBigShelf",
@@ -15141,7 +15141,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 330,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_MealRack": {
       "DefName": "LWM_MealRack",
@@ -15160,7 +15160,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 152,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Food_Basket": {
       "DefName": "LWM_Food_Basket",
@@ -15179,7 +15179,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 162,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Meat_Hook": {
       "DefName": "LWM_Meat_Hook",
@@ -15198,7 +15198,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 152,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Hayloft": {
       "DefName": "LWM_Hayloft",
@@ -15217,7 +15217,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 172,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_FabricHamper": {
       "DefName": "LWM_FabricHamper",
@@ -15236,7 +15236,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 230,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Pallet": {
       "DefName": "LWM_Pallet",
@@ -15255,7 +15255,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 132,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Pallet_Covered": {
       "DefName": "LWM_Pallet_Covered",
@@ -15274,7 +15274,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 192,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_DeepStorage_Skip": {
       "DefName": "LWM_DeepStorage_Skip",
@@ -15293,7 +15293,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 182,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Medicine_Cabinet": {
       "DefName": "LWM_Medicine_Cabinet",
@@ -15312,7 +15312,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 121,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Clothing_Rack": {
       "DefName": "LWM_Clothing_Rack",
@@ -15331,7 +15331,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 102,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_Safe": {
       "DefName": "LWM_Safe",
@@ -15350,7 +15350,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 610,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_WeaponsCabinet": {
       "DefName": "LWM_WeaponsCabinet",
@@ -15369,7 +15369,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 152,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LWM_WeaponsLocker": {
       "DefName": "LWM_WeaponsLocker",
@@ -15388,7 +15388,7 @@
       "Mod": "LWM's Deep Storage",
       "BasePrice": 142,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "Meat_Bear_Grizzly": {
       "DefName": "Meat_Bear_Grizzly",
@@ -17003,7 +17003,7 @@
       "Mod": "Royalty",
       "BasePrice": 3000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_JumpPack": {
       "DefName": "Techprint_JumpPack",
@@ -17022,7 +17022,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_BrainWiring": {
       "DefName": "Techprint_BrainWiring",
@@ -17041,7 +17041,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_SpecializedLimbs": {
       "DefName": "Techprint_SpecializedLimbs",
@@ -17060,7 +17060,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_CompactWeaponry": {
       "DefName": "Techprint_CompactWeaponry",
@@ -17079,7 +17079,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_VenomSynthesis": {
       "DefName": "Techprint_VenomSynthesis",
@@ -17098,7 +17098,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_ArtificialMetabolism": {
       "DefName": "Techprint_ArtificialMetabolism",
@@ -17117,7 +17117,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_NeuralComputation": {
       "DefName": "Techprint_NeuralComputation",
@@ -17136,7 +17136,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_SkinHardening": {
       "DefName": "Techprint_SkinHardening",
@@ -17155,7 +17155,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_HealingFactors": {
       "DefName": "Techprint_HealingFactors",
@@ -17174,7 +17174,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_FleshShaping": {
       "DefName": "Techprint_FleshShaping",
@@ -17193,7 +17193,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_MolecularAnalysis": {
       "DefName": "Techprint_MolecularAnalysis",
@@ -17212,7 +17212,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_CircadianInfluence": {
       "DefName": "Techprint_CircadianInfluence",
@@ -17231,7 +17231,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Painblock": {
       "DefName": "Psytrainer_Painblock",
@@ -17250,7 +17250,7 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Stun": {
       "DefName": "Psytrainer_Stun",
@@ -17269,7 +17269,7 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Burden": {
       "DefName": "Psytrainer_Burden",
@@ -17288,7 +17288,7 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_BlindingPulse": {
       "DefName": "Psytrainer_BlindingPulse",
@@ -17307,7 +17307,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_EntropyDump": {
       "DefName": "Psytrainer_EntropyDump",
@@ -17326,7 +17326,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Beckon": {
       "DefName": "Psytrainer_Beckon",
@@ -17345,7 +17345,7 @@
       "Mod": "Royalty",
       "BasePrice": 550,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_VertigoPulse": {
       "DefName": "Psytrainer_VertigoPulse",
@@ -17364,7 +17364,7 @@
       "Mod": "Royalty",
       "BasePrice": 550,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_ChaosSkip": {
       "DefName": "Psytrainer_ChaosSkip",
@@ -17383,7 +17383,7 @@
       "Mod": "Royalty",
       "BasePrice": 550,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Skip": {
       "DefName": "Psytrainer_Skip",
@@ -17402,7 +17402,7 @@
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Wallraise": {
       "DefName": "Psytrainer_Wallraise",
@@ -17421,7 +17421,7 @@
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Smokepop": {
       "DefName": "Psytrainer_Smokepop",
@@ -17440,7 +17440,7 @@
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Focus": {
       "DefName": "Psytrainer_Focus",
@@ -17459,7 +17459,7 @@
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Berserk": {
       "DefName": "Psytrainer_Berserk",
@@ -17478,7 +17478,7 @@
       "Mod": "Royalty",
       "BasePrice": 850,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Invisibility": {
       "DefName": "Psytrainer_Invisibility",
@@ -17497,7 +17497,7 @@
       "Mod": "Royalty",
       "BasePrice": 850,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_BerserkPulse": {
       "DefName": "Psytrainer_BerserkPulse",
@@ -17516,7 +17516,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_ManhunterPulse": {
       "DefName": "Psytrainer_ManhunterPulse",
@@ -17535,7 +17535,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_MassChaosSkip": {
       "DefName": "Psytrainer_MassChaosSkip",
@@ -17554,7 +17554,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Waterskip": {
       "DefName": "Psytrainer_Waterskip",
@@ -17573,7 +17573,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Flashstorm": {
       "DefName": "Psytrainer_Flashstorm",
@@ -17592,7 +17592,7 @@
       "Mod": "Royalty",
       "BasePrice": 850,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_BulletShield": {
       "DefName": "Psytrainer_BulletShield",
@@ -17611,7 +17611,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_SolarPinhole": {
       "DefName": "Psytrainer_SolarPinhole",
@@ -17630,7 +17630,7 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_WordOfTrust": {
       "DefName": "Psytrainer_WordOfTrust",
@@ -17649,7 +17649,7 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_WordOfJoy": {
       "DefName": "Psytrainer_WordOfJoy",
@@ -17668,7 +17668,7 @@
       "Mod": "Royalty",
       "BasePrice": 400,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_WordOfLove": {
       "DefName": "Psytrainer_WordOfLove",
@@ -17687,7 +17687,7 @@
       "Mod": "Royalty",
       "BasePrice": 550,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_WordOfSerenity": {
       "DefName": "Psytrainer_WordOfSerenity",
@@ -17706,7 +17706,7 @@
       "Mod": "Royalty",
       "BasePrice": 700,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_WordOfInspiration": {
       "DefName": "Psytrainer_WordOfInspiration",
@@ -17725,7 +17725,7 @@
       "Mod": "Royalty",
       "BasePrice": 850,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Farskip": {
       "DefName": "Psytrainer_Farskip",
@@ -17744,7 +17744,7 @@
       "Mod": "Royalty",
       "BasePrice": 850,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Neuroquake": {
       "DefName": "Psytrainer_Neuroquake",
@@ -17763,7 +17763,7 @@
       "Mod": "Royalty",
       "BasePrice": 1000,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Psytrainer_Chunkskip": {
       "DefName": "Psytrainer_Chunkskip",
@@ -17782,7 +17782,7 @@
       "Mod": "Royalty",
       "BasePrice": 250,
       "Category": "Psytrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Shooting": {
       "DefName": "Neurotrainer_Shooting",
@@ -17801,7 +17801,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Melee": {
       "DefName": "Neurotrainer_Melee",
@@ -17820,7 +17820,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Construction": {
       "DefName": "Neurotrainer_Construction",
@@ -17839,7 +17839,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Mining": {
       "DefName": "Neurotrainer_Mining",
@@ -17858,7 +17858,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Cooking": {
       "DefName": "Neurotrainer_Cooking",
@@ -17877,7 +17877,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Plants": {
       "DefName": "Neurotrainer_Plants",
@@ -17896,7 +17896,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Animals": {
       "DefName": "Neurotrainer_Animals",
@@ -17915,7 +17915,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Crafting": {
       "DefName": "Neurotrainer_Crafting",
@@ -17934,7 +17934,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Artistic": {
       "DefName": "Neurotrainer_Artistic",
@@ -17953,7 +17953,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Medicine": {
       "DefName": "Neurotrainer_Medicine",
@@ -17972,7 +17972,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Social": {
       "DefName": "Neurotrainer_Social",
@@ -17991,7 +17991,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Neurotrainer_Intellectual": {
       "DefName": "Neurotrainer_Intellectual",
@@ -18010,7 +18010,7 @@
       "Mod": "Core",
       "BasePrice": 750,
       "Category": "Skilltrainers",
-      "Enabled": true
+      "Enabled": false
     },
     "Zombrella": {
       "DefName": "Zombrella",
@@ -18029,7 +18029,7 @@
       "Mod": "Character Editor",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Zombgrella": {
       "DefName": "Zombgrella",
@@ -18048,7 +18048,7 @@
       "Mod": "Character Editor",
       "BasePrice": 385,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_FancyObelisk": {
       "DefName": "GW_FancyObelisk",
@@ -18067,7 +18067,7 @@
       "Mod": "GrimWorld 40,000 - Framework",
       "BasePrice": 10,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_OrdinaryObelisk": {
       "DefName": "GW_OrdinaryObelisk",
@@ -18086,7 +18086,7 @@
       "Mod": "GrimWorld 40,000 - Framework",
       "BasePrice": 10,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_VehicleToolCabinet": {
       "DefName": "GW_VehicleToolCabinet",
@@ -18105,7 +18105,7 @@
       "Mod": "GrimWorld 40,000 - Core Imperialis",
       "BasePrice": 450,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "HP_Adamantium": {
       "DefName": "HP_Adamantium",
@@ -18200,7 +18200,7 @@
       "Mod": "GrimWorld 40,000 - Core Imperialis",
       "BasePrice": 9785,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_WarhammerTable": {
       "DefName": "GW_WarhammerTable",
@@ -18219,7 +18219,7 @@
       "Mod": "GrimWorld 40,000 - Core Imperialis",
       "BasePrice": 320,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_FenrisianAle": {
       "DefName": "GW_FenrisianAle",
@@ -18371,7 +18371,7 @@
       "Mod": "GrimWorld 40,000 - Core Imperialis",
       "BasePrice": 3500,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_Rockcrete": {
       "DefName": "GW_Rockcrete",
@@ -18390,7 +18390,7 @@
       "Mod": "GrimWorld 40,000 - Core Imperialis",
       "BasePrice": 1,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_Plascrete": {
       "DefName": "GW_Plascrete",
@@ -18428,7 +18428,7 @@
       "Mod": "GrimWorld 40,000 - Core Imperialis",
       "BasePrice": 455,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_SM_Building_HeavyBolter": {
       "DefName": "GW_SM_Building_HeavyBolter",
@@ -18447,7 +18447,7 @@
       "Mod": "Grimworld 40,000 - Angels of Death",
       "BasePrice": 3270,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_SM_Building_Lascannon": {
       "DefName": "GW_SM_Building_Lascannon",
@@ -18466,7 +18466,7 @@
       "Mod": "Grimworld 40,000 - Angels of Death",
       "BasePrice": 3270,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_AOD_Bolter_Gun_Bolter": {
       "DefName": "GW_AOD_Bolter_Gun_Bolter",
@@ -21449,7 +21449,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 92,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_CommonDouble": {
       "DefName": "GW_IF_CommonDouble",
@@ -21468,7 +21468,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 175,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_PrisonerSingle": {
       "DefName": "GW_IF_PrisonerSingle",
@@ -21487,7 +21487,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 92,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_RoyalSingle": {
       "DefName": "GW_IF_RoyalSingle",
@@ -21506,7 +21506,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 770,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_RoyalDouble": {
       "DefName": "GW_IF_RoyalDouble",
@@ -21525,7 +21525,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 850,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_MedicaeBed": {
       "DefName": "GW_IF_MedicaeBed",
@@ -21544,7 +21544,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 100,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_4x4MundaneRug": {
       "DefName": "GW_IF_4x4MundaneRug",
@@ -21563,7 +21563,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 305,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_4x6MundaneRug": {
       "DefName": "GW_IF_4x6MundaneRug",
@@ -21582,7 +21582,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 460,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_3x6MundaneRug": {
       "DefName": "GW_IF_3x6MundaneRug",
@@ -21601,7 +21601,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 350,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_8x8MundaneRug": {
       "DefName": "GW_IF_8x8MundaneRug",
@@ -21620,7 +21620,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 1230,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_4x4RoyalRug": {
       "DefName": "GW_IF_4x4RoyalRug",
@@ -21639,7 +21639,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 630,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_4x6RoyalRug": {
       "DefName": "GW_IF_4x6RoyalRug",
@@ -21658,7 +21658,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 945,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_3x6RoyalRug": {
       "DefName": "GW_IF_3x6RoyalRug",
@@ -21677,7 +21677,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 720,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_8x8RoyalRug": {
       "DefName": "GW_IF_8x8RoyalRug",
@@ -21696,7 +21696,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 2515,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_1x1c": {
       "DefName": "GW_IF_1x1c",
@@ -21715,7 +21715,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 58,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_2x1c": {
       "DefName": "GW_IF_2x1c",
@@ -21734,7 +21734,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 58,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_2x2c": {
       "DefName": "GW_IF_2x2c",
@@ -21753,7 +21753,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 105,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_2x4c": {
       "DefName": "GW_IF_2x4c",
@@ -21772,7 +21772,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 105,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_3x3c": {
       "DefName": "GW_IF_3x3c",
@@ -21791,7 +21791,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 105,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Chair": {
       "DefName": "GW_IF_Chair",
@@ -21810,7 +21810,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 118,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Royal_1x1c": {
       "DefName": "GW_IF_Royal_1x1c",
@@ -21829,7 +21829,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 605,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Royal_2x1c": {
       "DefName": "GW_IF_Royal_2x1c",
@@ -21848,7 +21848,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 560,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Royal_2x2c": {
       "DefName": "GW_IF_Royal_2x2c",
@@ -21867,7 +21867,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 605,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Royal_2x4c": {
       "DefName": "GW_IF_Royal_2x4c",
@@ -21886,7 +21886,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 605,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Royal_3x3c": {
       "DefName": "GW_IF_Royal_3x3c",
@@ -21905,7 +21905,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 605,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_Royal_Chair": {
       "DefName": "GW_IF_Royal_Chair",
@@ -21924,7 +21924,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 118,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_Statues_1x1Janitor": {
       "DefName": "GW40k_Statues_1x1Janitor",
@@ -21943,7 +21943,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_Statues_1x1Sister": {
       "DefName": "GW40k_Statues_1x1Sister",
@@ -21962,7 +21962,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_Statues_1x1Flag": {
       "DefName": "GW40k_Statues_1x1Flag",
@@ -21981,7 +21981,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_1x1StatuesHoodGuy": {
       "DefName": "GW40k_1x1StatuesHoodGuy",
@@ -22000,7 +22000,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_1x1StatuesOfficer": {
       "DefName": "GW40k_1x1StatuesOfficer",
@@ -22019,7 +22019,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_1x1StatuesSisterMace": {
       "DefName": "GW40k_1x1StatuesSisterMace",
@@ -22038,7 +22038,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 164,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_2x2Statues": {
       "DefName": "GW40k_2x2Statues",
@@ -22057,7 +22057,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 310,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_3x3Statues": {
       "DefName": "GW40k_3x3Statues",
@@ -22076,7 +22076,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 445,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_4x4StatuesGuil": {
       "DefName": "GW40k_4x4StatuesGuil",
@@ -22095,7 +22095,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 1080,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_4x4StatuesLion": {
       "DefName": "GW40k_4x4StatuesLion",
@@ -22114,7 +22114,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 1080,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GW40k_4x4StatuesVald": {
       "DefName": "GW40k_4x4StatuesVald",
@@ -22133,7 +22133,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 1080,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "GWGT_GoldenThrone": {
       "DefName": "GWGT_GoldenThrone",
@@ -22152,7 +22152,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 9140,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_IF_WallLamp": {
       "DefName": "GW_IF_WallLamp",
@@ -22171,7 +22171,7 @@
       "Mod": "GrimWorld 40,000 - Aspectus Imperialis",
       "BasePrice": 29,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Building_HeavyBolter": {
       "DefName": "GW_HOI_Building_HeavyBolter",
@@ -22190,7 +22190,7 @@
       "Mod": "GrimWorld 40,000 - Hammer of the Imperium",
       "BasePrice": 1185,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Building_Autocannon": {
       "DefName": "GW_HOI_Building_Autocannon",
@@ -22209,7 +22209,7 @@
       "Mod": "GrimWorld 40,000 - Hammer of the Imperium",
       "BasePrice": 1185,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Building_Lascannon": {
       "DefName": "GW_HOI_Building_Lascannon",
@@ -22228,7 +22228,7 @@
       "Mod": "GrimWorld 40,000 - Hammer of the Imperium",
       "BasePrice": 1560,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Building_TarantulaHeavyBolter": {
       "DefName": "GW_HOI_Building_TarantulaHeavyBolter",
@@ -22247,7 +22247,7 @@
       "Mod": "GrimWorld 40,000 - Hammer of the Imperium",
       "BasePrice": 1290,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Building_TarantulaLascannon": {
       "DefName": "GW_HOI_Building_TarantulaLascannon",
@@ -22266,7 +22266,7 @@
       "Mod": "GrimWorld 40,000 - Hammer of the Imperium",
       "BasePrice": 1505,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Turret_Earthshaker": {
       "DefName": "GW_HOI_Turret_Earthshaker",
@@ -22285,7 +22285,7 @@
       "Mod": "GrimWorld 40,000 - Hammer of the Imperium",
       "BasePrice": 1685,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_HOI_Melee_Chainsword": {
       "DefName": "GW_HOI_Melee_Chainsword",
@@ -24470,7 +24470,7 @@
       "Mod": "GrimWorld 40,000 - Masters of Mankind",
       "BasePrice": 41575,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "GW_Ruler_GoldenSTC": {
       "DefName": "GW_Ruler_GoldenSTC",
@@ -27605,7 +27605,7 @@
       "Mod": "RimWorld",
       "BasePrice": 900,
       "Category": "Natural",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_NeutroTap": {
       "DefName": "VREA_NeutroTap",
@@ -27624,7 +27624,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 116,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_NeutroDrain": {
       "DefName": "VREA_NeutroDrain",
@@ -27643,7 +27643,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 116,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidPartWorkbench": {
       "DefName": "VREA_AndroidPartWorkbench",
@@ -27662,7 +27662,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 690,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidCreationStation": {
       "DefName": "VREA_AndroidCreationStation",
@@ -27681,7 +27681,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 2110,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidBehavioristStation": {
       "DefName": "VREA_AndroidBehavioristStation",
@@ -27700,7 +27700,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 1450,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_NeutroCasket": {
       "DefName": "VREA_NeutroCasket",
@@ -27719,7 +27719,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 450,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_PersonaSubcore": {
       "DefName": "VREA_PersonaSubcore",
@@ -27738,7 +27738,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 2000,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_UnfinishedAndroid": {
       "DefName": "VREA_UnfinishedAndroid",
@@ -27776,7 +27776,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 385,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AirFilter": {
       "DefName": "VREA_AirFilter",
@@ -27795,7 +27795,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 315,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Neutrofilter": {
       "DefName": "VREA_Neutrofilter",
@@ -27814,7 +27814,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 315,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_MetabolismRegulator": {
       "DefName": "VREA_MetabolismRegulator",
@@ -27833,7 +27833,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 325,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Reactor": {
       "DefName": "VREA_Reactor",
@@ -27852,7 +27852,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 570,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_OpticalUnit": {
       "DefName": "VREA_OpticalUnit",
@@ -27871,7 +27871,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 340,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AudioProcessor": {
       "DefName": "VREA_AudioProcessor",
@@ -27890,7 +27890,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 295,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialNose": {
       "DefName": "VREA_ArtificialNose",
@@ -27909,7 +27909,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialJaw": {
       "DefName": "VREA_ArtificialJaw",
@@ -27928,7 +27928,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 183,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialRibcage": {
       "DefName": "VREA_ArtificialRibcage",
@@ -27947,7 +27947,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 183,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialSpine": {
       "DefName": "VREA_ArtificialSpine",
@@ -27966,7 +27966,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 193,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidLeg": {
       "DefName": "VREA_AndroidLeg",
@@ -27985,7 +27985,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 230,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidFoot": {
       "DefName": "VREA_AndroidFoot",
@@ -28004,7 +28004,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidArm": {
       "DefName": "VREA_AndroidArm",
@@ -28023,7 +28023,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 230,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidHand": {
       "DefName": "VREA_AndroidHand",
@@ -28042,7 +28042,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Apparel_Archoplate": {
       "DefName": "VREA_Apparel_Archoplate",
@@ -28137,7 +28137,7 @@
       "Mod": "Vanilla Races Expanded - Phytokin",
       "BasePrice": 250,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_PsychofluidWell": {
       "DefName": "VRE_PsychofluidWell",
@@ -28156,7 +28156,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 2415,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_HemogenTap": {
       "DefName": "VRE_HemogenTap",
@@ -28175,7 +28175,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 197,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_HemogenDrain": {
       "DefName": "VRE_HemogenDrain",
@@ -28194,7 +28194,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 187,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_InvocationMatrix": {
       "DefName": "VRE_InvocationMatrix",
@@ -28213,7 +28213,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 800,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_HemodynamicAccelerator": {
       "DefName": "VRE_HemodynamicAccelerator",
@@ -28232,7 +28232,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 1110,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_HemogenSolidifier": {
       "DefName": "VRE_HemogenSolidifier",
@@ -28251,7 +28251,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 640,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_SmallHemogenAmplifier": {
       "DefName": "VRE_SmallHemogenAmplifier",
@@ -28270,7 +28270,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 290,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_SmallHemopump": {
       "DefName": "VRE_SmallHemopump",
@@ -28289,7 +28289,7 @@
       "Mod": "Vanilla Races Expanded - Sanguophage",
       "BasePrice": 193,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRE_HemogenPack_Animal": {
       "DefName": "VRE_HemogenPack_Animal",
@@ -28346,7 +28346,7 @@
       "Mod": "Vanilla Races Expanded - Saurid",
       "BasePrice": 100,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Sternum": {
       "DefName": "VREA_Sternum",
@@ -28365,7 +28365,7 @@
       "Mod": "RimWorld",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Pelvis": {
       "DefName": "VREA_Pelvis",
@@ -28384,7 +28384,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Neck": {
       "DefName": "VREA_Neck",
@@ -28403,7 +28403,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Tongue": {
       "DefName": "VREA_Tongue",
@@ -28422,7 +28422,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Shoulder": {
       "DefName": "VREA_Shoulder",
@@ -28441,7 +28441,7 @@
       "Mod": "RimWorld",
       "BasePrice": 156,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Clavicle": {
       "DefName": "VREA_Clavicle",
@@ -28460,7 +28460,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Humerus": {
       "DefName": "VREA_Humerus",
@@ -28479,7 +28479,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Radius": {
       "DefName": "VREA_Radius",
@@ -28498,7 +28498,7 @@
       "Mod": "RimWorld",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Finger": {
       "DefName": "VREA_Finger",
@@ -28517,7 +28517,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Waist": {
       "DefName": "VREA_Waist",
@@ -28536,7 +28536,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Femur": {
       "DefName": "VREA_Femur",
@@ -28555,7 +28555,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Tibia": {
       "DefName": "VREA_Tibia",
@@ -28574,7 +28574,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Toe": {
       "DefName": "VREA_Toe",
@@ -28593,7 +28593,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     }
   }
 }
