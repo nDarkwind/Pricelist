@@ -127,17 +127,16 @@ class RICSStore {
                     baseCost: eventData.BaseCost || 0,
                     karmaType: eventData.KarmaType || 'None',
                     modSource: eventData.ModSource || 'Unknown',
+                    modActive: eventData.modactive || false,  // ADD THIS
                     enabled: eventData.Enabled !== false
                 };
             })
-        .filter(event => {
-            // Only include if:
-            // 1. Event is enabled AND
-            // 2. Base cost > 0 AND
-            // 3. Mod is active (modactive = true)
-            return event.enabled && 
-                   event.baseCost > 0 && 
-                   event.modActive === true;
+            .filter(event => {
+                // Fixed: Added missing closing brackets
+                return event.enabled && 
+                       event.baseCost > 0 && 
+                       event.modActive === true;
+            });  // <-- Was missing this closing bracket
     }
 
 
@@ -175,17 +174,16 @@ class RICSStore {
                     baseCost: weatherData.BaseCost || 0,
                     karmaType: weatherData.KarmaType || 'None',
                     modSource: weatherData.ModSource || 'Unknown',
+                    modActive: weatherData.modactive || false,  // ADD THIS
                     enabled: weatherData.Enabled !== false
                 };
             })
             .filter(weather => {
-            // Only include if:
-            // 1. Event is enabled AND
-            // 2. Base cost > 0 AND
-            // 3. Mod is active (modactive = true)
-            return event.enabled && 
-                   event.baseCost > 0 && 
-                   event.modActive === true;
+                // Fixed: Changed 'event' to 'weather' and added missing brackets
+                return weather.enabled && 
+                       weather.baseCost > 0 && 
+                       weather.modActive === true;
+            });  // <-- Was missing this closing bracket
     }
 
     processTraitDescription(description) {
